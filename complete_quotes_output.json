@@ -1,0 +1,422 @@
+[
+  {
+    "id": "tyler_denk_021",
+    "speaker": "tyler_denk",
+    "quote_text": "Ten months building at glacial speed because it's nights and weekends for me and my co-founders",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=2918",
+      "date": "Sep 5, 2024",
+      "timestamp": "48:38"
+    },
+    "context": "Describing the slow development process of Beehiiv while working full-time at Google",
+    "mentioned_entities": ["tyler_denk", "ben_hargett", "jake_hurd"],
+    "tags": ["beehiiv_development", "side_project", "timing_constraints"]
+  },
+  {
+    "id": "tyler_denk_022",
+    "speaker": "tyler_denk",
+    "quote_text": "Beehiiv was a nights and weekends project while they were working at Morning Brew and I was working at Google. Separate computers, separate everything. I was just working late at night. So we did that for about 10 months. Pretty much the whole time I was at Google, I was hustling on this on the weekends",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=4459",
+      "date": "Jul 20, 2023",
+      "timestamp": "74:19"
+    },
+    "context": "Explaining the development timeline and process for building Beehiiv",
+    "mentioned_entities": ["tyler_denk", "beehiiv", "morning_brew", "google", "ben_hargett", "jake_hurd"],
+    "tags": ["beehiiv_development", "side_project", "hustle", "nights_weekends"]
+  },
+  {
+    "id": "tyler_denk_023",
+    "speaker": "tyler_denk",
+    "quote_text": "The amount of anxiety of building something very slowly against fully-funded full-time teams (competitors) and I'm kind of battling egos with Alex and Austin who were my good friends and former bosses but I'm also taking two of their four engineers to co-found this company with me and there's legal implications. I don't know if I'm waking up with a non-compete or a non-solicit. A lot is going on while also having a full-time job while falling behind in this market while also having this dream vision of 'I think we can do this and pull it off but each day that we're not heads down on this we're getting further and further away from being able to compete.' It was just a ball of ten months of anxiety",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=2937",
+      "date": "Sep 5, 2024",
+      "timestamp": "48:57"
+    },
+    "context": "Describing the stress and anxiety during the 10-month Beehiiv development period",
+    "mentioned_entities": ["tyler_denk", "alex_lieberman", "austin_rief", "ben_hargett", "jake_hurd"],
+    "tags": ["anxiety", "competitive_pressure", "relationship_strain", "legal_concerns"]
+  },
+  {
+    "id": "tyler_denk_024",
+    "speaker": "tyler_denk",
+    "quote_text": "I did this in the most risky way possible because, at the time, I was still very young in my career and had a ton of debt. I couldn't just not make money and live in New York or LA while building a company. Plus, our company required software vendors with annual contracts of $80,000. So, we raised money in August 2021, and the second the money hit the bank account, I put in my two weeks' notice at Google. I started full-time at Beehiiv in early August 2021. It was me, Ben, and Jake as co-founders (who joined full-time a few weeks after Tyler) and we brought on Andrew Platkin as our initial CTO. So, it was us 4, just grinding and building. Then, we launched in November of 2021",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=4517",
+      "date": "Jul 20, 2023",
+      "timestamp": "75:17"
+    },
+    "context": "Explaining the risky transition from Google to Beehiiv full-time",
+    "mentioned_entities": ["tyler_denk", "google", "beehiiv", "ben_hargett", "jake_hurd", "andrew_platkin"],
+    "tags": ["career_risk", "funding", "team_building", "product_launch"]
+  },
+  {
+    "id": "tyler_denk_025",
+    "speaker": "tyler_denk",
+    "quote_text": "I can't think about the grand vision after 8:00 p.m. because then I don't sleep. We have a really talented team, and we have a pretty well-defined roadmap for at least the next 12 to 24 months. I get really excited about what we're in the process of building",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=5836",
+      "date": "Jul 20, 2023",
+      "timestamp": "97:16"
+    },
+    "context": "Discussing how he manages work-life balance and vision planning",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["work_life_balance", "product_roadmap", "team_quality", "sleep_habits"]
+  },
+  {
+    "id": "tyler_denk_026",
+    "speaker": "tyler_denk",
+    "quote_text": "If there's a writer who's going to spend 3 hours writing stories for a newsletter, whether you send it to one person or one-million people, that writer's work is the same. It's a fixed cost in terms of time and effort. Our job is to make the other parts easier. The monetization part, so you don't need a sales team; the growth part, so you don't need a growth team; the tech part, so you don't need a tech team. If you're amazing at writing about whatever you care about, the fact that we should be able to abstract away the tech, growth, and monetization at a very high level so you can focus on reaching your audience. That is the Holy Grail value prop of what we're doing for newsletters",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=4986",
+      "date": "Jul 20, 2023",
+      "timestamp": "83:06"
+    },
+    "context": "Explaining Beehiiv's core value proposition for newsletter creators",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["product_vision", "value_proposition", "content_creators", "platform_abstraction"]
+  },
+  {
+    "id": "tyler_denk_027",
+    "speaker": "tyler_denk",
+    "quote_text": "Our kicker was, 'We're going to ride the momentum of Morning Brew's success and you're going to have a referral program built into it.' Now it's a bit more commoditized but that was our initial counter-positioning",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=2906",
+      "date": "Sep 5, 2024",
+      "timestamp": "48:26"
+    },
+    "context": "Describing Beehiiv's initial positioning strategy in the market",
+    "mentioned_entities": ["tyler_denk", "morning_brew", "beehiiv"],
+    "tags": ["positioning_strategy", "referral_programs", "market_differentiation"]
+  },
+  {
+    "id": "tyler_denk_028",
+    "speaker": "tyler_denk",
+    "quote_text": "It was pure demand validation. People were asking for the referral program, the CMS, and the total package of what we had built",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=1744",
+      "date": "Jul 20, 2023",
+      "timestamp": "29:04"
+    },
+    "context": "Explaining the market validation for Beehiiv's product concept",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["market_validation", "product_demand", "referral_programs", "cms"]
+  },
+  {
+    "id": "tyler_denk_029",
+    "speaker": "tyler_denk",
+    "quote_text": "We always got a couple hundred replies each day [at Morning Brew]. What software are you using?",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=1686",
+      "date": "Jul 20, 2023",
+      "timestamp": "28:06"
+    },
+    "context": "Describing the frequent inquiries about Morning Brew's tech stack",
+    "mentioned_entities": ["tyler_denk", "morning_brew"],
+    "tags": ["customer_demand", "tech_stack_interest", "market_research"]
+  },
+  {
+    "id": "tyler_denk_030",
+    "speaker": "tyler_denk",
+    "quote_text": "The inception of Beehiiv happened way back at Morning Brew because we would always get inbound from readers saying, 'Your referral program is amazing, the newsletter's amazing. Can my team or organization use your tech, or how did you build this?' They were all hoping that we had an off-the-shelf solution to say, 'Oh, we just use platform X for the referral program,' or 'This is the CMS we use.' But the truth was, we had a custom-built referral program, a custom-built CMS, and a custom-built ad management system. The website was custom-built too. So there wasn't a simple 'Hey, just use this.' It was like, 'Oh, we built that,' and you can't access it",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=4219",
+      "date": "Jul 20, 2023",
+      "timestamp": "70:19"
+    },
+    "context": "Explaining how customer inquiries at Morning Brew led to the Beehiiv concept",
+    "mentioned_entities": ["tyler_denk", "beehiiv", "morning_brew"],
+    "tags": ["beehiiv_origins", "customer_demand", "custom_development", "market_gap"]
+  },
+  {
+    "id": "tyler_denk_031",
+    "speaker": "tyler_denk",
+    "quote_text": "Being the person who led the development and made a lot of the decisions of how it worked and functioned, when people are like, 'Hey, I want to use this referral program, is there a software you can recommend us off-the-shelf?' The answer was, 'No. We built it in-house.' So it didn't solve their problem. I built that. I know exactly how it works",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=1725",
+      "date": "Jul 20, 2023",
+      "timestamp": "28:45"
+    },
+    "context": "Explaining his founder-market fit for building Beehiiv",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["founder_market_fit", "technical_expertise", "custom_development"]
+  },
+  {
+    "id": "tyler_denk_032",
+    "speaker": "tyler_denk",
+    "quote_text": "We know the pain points. We've seen the pain points. I've sat next to teams that were dealing with these pain points, and we're just building tech to help facilitate those and make it easier. So people can create the content they want to create, build a business around it, monetize, grow, and increase their influence. Meanwhile, we handle the annoying, boring stuff that they don't feel like doing, and they get all of the upside",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=5588",
+      "date": "Jul 20, 2023",
+      "timestamp": "93:08"
+    },
+    "context": "Describing how his Morning Brew experience informed Beehiiv's solution",
+    "mentioned_entities": ["tyler_denk", "beehiiv", "morning_brew"],
+    "tags": ["pain_points", "product_development", "customer_value", "content_creators"]
+  },
+  {
+    "id": "tyler_denk_033",
+    "speaker": "tyler_denk",
+    "quote_text": "The 10,000-foot view of how I'm able to communicate this now is that I went to Google for 10 months, got what I needed out of it, and then applied those learnings to Beehiiv. I knew I was rough around process and product management, and I didn't know what those things really looked like in an organization. I wanted to learn. I learned it as quickly as possible, I was like, 'Okay, that's how that works.' It works really well and scales at a large company with a lot of bureaucracy and process. Now, imagine a 5-6 person startup team. We could hypercharge this and make it so much more efficient. And that's why we've hit the ground running so quickly at Beehiiv",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=4130",
+      "date": "Jul 20, 2023",
+      "timestamp": "68:50"
+    },
+    "context": "Explaining how Google experience improved his approach to building Beehiiv",
+    "mentioned_entities": ["tyler_denk", "google", "beehiiv"],
+    "tags": ["learning", "process_improvement", "google_experience", "startup_efficiency"]
+  },
+  {
+    "id": "tyler_denk_034",
+    "speaker": "tyler_denk",
+    "quote_text": "What we went to market with as counter-positioning was: 'We have a referral program built into the newsletter.' Substack didn't offer it, all the traditional ESPs don't even think about growth, they just allow you to send emails",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=2880",
+      "date": "Sep 5, 2024",
+      "timestamp": "48:00"
+    },
+    "context": "Describing Beehiiv's competitive positioning against Substack and traditional email providers",
+    "mentioned_entities": ["tyler_denk", "beehiiv", "substack"],
+    "tags": ["competitive_positioning", "referral_programs", "market_differentiation"]
+  },
+  {
+    "id": "tyler_denk_035",
+    "speaker": "tyler_denk",
+    "quote_text": "And then at the same time, Substack just raised $65m (March 2021) at a $650m valuation. At the time twitter was just a bunch of angry Substack users",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=1752",
+      "date": "Jul 20, 2023",
+      "timestamp": "29:12"
+    },
+    "context": "Describing the market timing when Beehiiv was being developed",
+    "mentioned_entities": ["tyler_denk", "substack"],
+    "tags": ["market_timing", "funding_landscape", "competitor_analysis"]
+  },
+  {
+    "id": "tyler_denk_036",
+    "speaker": "tyler_denk",
+    "quote_text": "Every vendor we looked at was web first. It was, 'Here's the SEO features and this is how you publish it to your website. And we were like, 'No we don't need to publish it to our website, we need it to look great in Outlook, Gmail and Apple mail.' The product didn't really exist in the market",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=883",
+      "date": "Sep 5, 2024",
+      "timestamp": "14:43"
+    },
+    "context": "Explaining the market gap Beehiiv identified regarding email-first vs web-first platforms",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["market_gap", "email_first", "product_positioning"]
+  },
+  {
+    "id": "tyler_denk_037",
+    "speaker": "tyler_denk",
+    "quote_text": "The analogy I always use is: Mailchimp sold for $12b (September 2021) and they just send emails. I think what we're building is so much more powerful and ambitious. On top of just sending emails, there are network effects, growth, monetization, there's sending emails better and a bunch of other data plays",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=5819",
+      "date": "Jul 20, 2023",
+      "timestamp": "96:59"
+    },
+    "context": "Comparing Beehiiv's ambitions to Mailchimp's success",
+    "mentioned_entities": ["tyler_denk", "beehiiv", "mailchimp"],
+    "tags": ["market_opportunity", "competitive_comparison", "product_ambition"]
+  },
+  {
+    "id": "tyler_denk_038",
+    "speaker": "tyler_denk",
+    "quote_text": "If Mailchimp can get acquired for $12b, our ambition is much broader than the software that they built so I think this can be a massive multi-billion dollar business",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/wQeHYjZNT54?t=1239",
+      "date": "Jan 7, 2024",
+      "timestamp": "20:39"
+    },
+    "context": "Discussing Beehiiv's potential market size and valuation prospects",
+    "mentioned_entities": ["tyler_denk", "beehiiv", "mailchimp"],
+    "tags": ["valuation_potential", "market_size", "business_ambition"]
+  },
+  {
+    "id": "tyler_denk_039",
+    "speaker": "tyler_denk",
+    "quote_text": "We want to be a net revenue income for you. You might pay us $99 a month. But through boosts, subscriptions, and the ad network, you're actually making $4,000 or $5,000 from our software. As long as we can keep our users in the black, it's value-additive in their lives. And that's what we're trying to nail as a brand",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/lZYIRPtU4xQ?t=5994",
+      "date": "Jul 20, 2023",
+      "timestamp": "99:54"
+    },
+    "context": "Explaining Beehiiv's net-revenue model for customers",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["business_model", "customer_value", "revenue_sharing", "net_positive"]
+  },
+  {
+    "id": "tyler_denk_040",
+    "speaker": "tyler_denk",
+    "quote_text": "There have been decades of email service providers where they're the cost of doing business. You pay mailchimp $700 per month to send emails. Where I think we have a very interesting opportunity is you might pay us $200-$300 per month but we may be paying you $2,000-$3,000 in earnings from our ad network and other features",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=2400",
+      "date": "Sep 5, 2024",
+      "timestamp": "40:00"
+    },
+    "context": "Contrasting traditional email providers with Beehiiv's revenue-generating model",
+    "mentioned_entities": ["tyler_denk", "beehiiv", "mailchimp"],
+    "tags": ["business_model_innovation", "revenue_generation", "cost_vs_profit"]
+  },
+  {
+    "id": "tyler_denk_041",
+    "speaker": "tyler_denk",
+    "quote_text": "We're now creating new monetizable assets and opportunities that didn't exist before. Email service providers used to be a cost, and now we're a platform that's additive to the entire ecosystem",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/SOInHrN_PvA?t=1532",
+      "date": "Aug 28, 2023",
+      "timestamp": "25:32"
+    },
+    "context": "Explaining how Beehiiv transforms the email service provider model",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["platform_transformation", "monetization", "ecosystem_value"]
+  },
+  {
+    "id": "tyler_denk_042",
+    "speaker": "tyler_denk",
+    "quote_text": "I think we can build a multi-billion dollar business",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=3834",
+      "date": "Sep 5, 2024",
+      "timestamp": "63:54"
+    },
+    "context": "Expressing his vision for Beehiiv's potential",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["business_ambition", "valuation_target", "vision"]
+  },
+  {
+    "id": "tyler_denk_043",
+    "speaker": "tyler_denk",
+    "quote_text": "Today, Beehiiv is known for the velocity at which we relentlessly ship new features. That part of the company DNA stems almost entirely from Andrew",
+    "source": {
+      "type": "newsletter",
+      "url": "https://mail.bigdeskenergy.com/p/rip-andrew-platkin",
+      "date": "May 7, 2024",
+      "timestamp": ""
+    },
+    "context": "Crediting Andrew Platkin for Beehiiv's fast shipping culture",
+    "mentioned_entities": ["tyler_denk", "beehiiv", "andrew_platkin"],
+    "tags": ["company_culture", "product_velocity", "andrew_platkin_influence"]
+  },
+  {
+    "id": "tyler_denk_044",
+    "speaker": "tyler_denk",
+    "quote_text": "There's a sense of urgency that percolates through me. Until we own a lot more of this market share, there is so much more to build",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=4913",
+      "date": "Sep 5, 2024",
+      "timestamp": "81:53"
+    },
+    "context": "Explaining his drive and urgency in building Beehiiv",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["urgency", "market_share", "competitive_drive"]
+  },
+  {
+    "id": "tyler_denk_045",
+    "speaker": "tyler_denk",
+    "quote_text": "Perfect kills momentum. Like the Reid Hoffman quote, 'If perfect, you shipped it way too late.' Unless it's touching money or something that is very fragile, we knowingly ship things 80%-85% done. Not blatantly missing something but not entirely polished. Because the last 10% can take so much time to guess how a user would use this. You can actually short circuit all of that by getting it in their hands and they'll tell you right away",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=5047",
+      "date": "Sep 5, 2024",
+      "timestamp": "84:07"
+    },
+    "context": "Explaining Beehiiv's philosophy of shipping imperfect but functional products",
+    "mentioned_entities": ["tyler_denk", "reid_hoffman", "beehiiv"],
+    "tags": ["shipping_philosophy", "speed_vs_perfection", "user_feedback"]
+  },
+  {
+    "id": "tyler_denk_046",
+    "speaker": "tyler_denk",
+    "quote_text": "There's an acceptance of good enough and getting it in the users hands where a lot of founders are scared of negative criticism",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=5095",
+      "date": "Sep 5, 2024",
+      "timestamp": "84:55"
+    },
+    "context": "Contrasting Beehiiv's approach with other founders' fear of criticism",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["criticism_acceptance", "founder_mindset", "user_feedback"]
+  },
+  {
+    "id": "tyler_denk_047",
+    "speaker": "tyler_denk",
+    "quote_text": "I send these project updates. I get 40 people telling me what's wrong with the feature and rather than that hurting my ego, I just synthesize it, put it into a doc and send to to the engineers and they fix it",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=5101",
+      "date": "Sep 5, 2024",
+      "timestamp": "85:01"
+    },
+    "context": "Describing his process for handling user feedback on new features",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["feedback_process", "ego_management", "product_improvement"]
+  },
+  {
+    "id": "tyler_denk_048",
+    "speaker": "tyler_denk",
+    "quote_text": "When we launched we were the shittiest product in the market because all the competitors had been around for a decade plus and we pieced together something over 10 months",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=1611",
+      "date": "Sep 5, 2024",
+      "timestamp": "26:51"
+    },
+    "context": "Acknowledging Beehiiv's initial product quality compared to established competitors",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["product_evolution", "competitive_disadvantage", "launch_challenges"]
+  },
+  {
+    "id": "tyler_denk_049",
+    "speaker": "tyler_denk",
+    "quote_text": "I still feel that hustle. Our competitors are still 5-15 years ahead of us. There's so much to do",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=1638",
+      "date": "Sep 5, 2024",
+      "timestamp": "27:18"
+    },
+    "context": "Expressing continued urgency despite Beehiiv's success",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["competitive_pressure", "hustle_mentality", "continuous_improvement"]
+  },
+  {
+    "id": "tyler_denk_050",
+    "speaker": "tyler_denk",
+    "quote_text": "Thinking through where the best employees live is such a distant and archaic way of thinking about how do we get the best person on our team contributing to what we want to do",
+    "source": {
+      "type": "video_interview",
+      "url": "https://youtu.be/k2ezi6HM5XQ?t=3714",
+      "date": "Sep 5, 2024",
+      "timestamp": "61:54"
+    },
+    "context": "Defending Beehiiv's remote-first approach to hiring",
+    "mentioned_entities": ["tyler_denk", "beehiiv"],
+    "tags": ["remote_work", "hiring_philosophy", "talent_acquisition"]
+  }
+]

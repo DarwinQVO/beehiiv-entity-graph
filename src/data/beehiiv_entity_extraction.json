@@ -1,0 +1,355 @@
+{
+  "document_metadata": {
+    "source_document": "Beehiiv_Tyler Denk.md",
+    "total_lines": 922,
+    "extraction_date": "2025-01-09",
+    "extraction_methodology": "Complete systematic extraction from document"
+  },
+
+  "canonical_entities": {
+    "people": {
+      "tyler_denk": {
+        "canonical_name": "Tyler Denk",
+        "aliases": ["Tyler", "@TylerDenk", "@denk_tweets"],
+        "description": "Co-founder and CEO of Beehiiv, former Morning Brew employee"
+      },
+      "austin_rief": {
+        "canonical_name": "Austin Rief",
+        "aliases": ["Austin"],
+        "description": "Co-founder and CEO of Morning Brew, advisor and investor in Beehiiv"
+      },
+      "alex_lieberman": {
+        "canonical_name": "Alex Lieberman",
+        "aliases": ["Alex"],
+        "description": "Co-founder of Morning Brew"
+      },
+      "ben_hargett": {
+        "canonical_name": "Ben Hargett",
+        "aliases": ["Ben"],
+        "description": "Co-founder of Beehiiv, former Morning Brew engineer"
+      },
+      "jake_hurd": {
+        "canonical_name": "Jake Hurd",
+        "aliases": ["Jake"],
+        "description": "Co-founder of Beehiiv, former Morning Brew engineer"
+      },
+      "andrew_platkin": {
+        "canonical_name": "Andrew Platkin",
+        "aliases": ["Andrew"],
+        "description": "Former CTO of Beehiiv, Tyler's mentor at Morning Brew, passed away May 2022"
+      }
+    },
+    "companies": {
+      "beehiiv": {
+        "canonical_name": "Beehiiv",
+        "aliases": ["beehiiv"],
+        "description": "Newsletter platform company founded by Tyler Denk, Ben Hargett, and Jake Hurd"
+      },
+      "morning_brew": {
+        "canonical_name": "Morning Brew",
+        "aliases": ["MB"],
+        "description": "Newsletter business media company founded by Austin Rief and Alex Lieberman"
+      },
+      "google": {
+        "canonical_name": "Google",
+        "aliases": ["YouTube Music", "Google YouTube Music"],
+        "description": "Tech company where Tyler worked for 10 months after leaving Morning Brew"
+      },
+      "substack": {
+        "canonical_name": "Substack",
+        "aliases": [],
+        "description": "Newsletter platform competitor to Beehiiv"
+      },
+      "mailchimp": {
+        "canonical_name": "Mailchimp",
+        "aliases": [],
+        "description": "Email service provider acquired for $12B, competitor reference point"
+      }
+    },
+    "products": {
+      "referral_program": {
+        "canonical_name": "Referral Program",
+        "description": "Growth feature built by Tyler at Morning Brew, core feature of Beehiiv"
+      },
+      "cms": {
+        "canonical_name": "Content Management System",
+        "aliases": ["CMS"],
+        "description": "Custom-built content management system for newsletters"
+      },
+      "ad_network": {
+        "canonical_name": "Ad Network",
+        "aliases": [],
+        "description": "Beehiiv's advertising network feature for monetization"
+      }
+    }
+  },
+
+  "excerpts": [
+    {
+      "id": "excerpt_001",
+      "speaker": "tyler_denk",
+      "quote_text": "I graduated with a bunch of student debt and my company didn't take off. So, I was living in my parents' basement with literally $2.50 in my bank account. I had put all my eggs in one basket, thinking that this company was going to be a multi-billion dollar success, because you have to be delusional as a founder. I was left with nothing. Fortunately, I was at my parents' house, so I started building Shopify stores and taking on random freelance gigs as a self-taught developer",
+      "source": {
+        "type": "youtube",
+        "url": "https://youtu.be/k2ezi6HM5XQ?t=262",
+        "date": "Sep 5, 2024",
+        "timestamp": "4:22"
+      },
+      "context": "Tyler describing his situation after college graduation when his startup failed",
+      "relationships_established": [
+        {
+          "type": "experienced_failure",
+          "subject": "tyler_denk",
+          "object": "first_startup",
+          "temporal": "after college graduation"
+        },
+        {
+          "type": "self_taught",
+          "subject": "tyler_denk",
+          "object": "development_skills",
+          "temporal": "after college graduation"
+        }
+      ]
+    },
+    {
+      "id": "excerpt_002",
+      "speaker": "tyler_denk",
+      "quote_text": "I became very fascinated with Shopify. I thought it was such a powerful platform. I ended up doing a lot of freelance work building Shopify sites",
+      "source": {
+        "type": "youtube",
+        "url": "https://youtu.be/lZYIRPtU4xQ?t=217",
+        "date": "Jul 30, 2023",
+        "timestamp": "3:37"
+      },
+      "context": "Tyler explaining his early freelance work with Shopify",
+      "relationships_established": [
+        {
+          "type": "worked_with",
+          "subject": "tyler_denk",
+          "object": "shopify",
+          "temporal": "early career"
+        }
+      ]
+    },
+    {
+      "id": "excerpt_003",
+      "speaker": "tyler_denk",
+      "quote_text": "My good buddy Austin Rief who is also from Baltimore called me",
+      "source": {
+        "type": "youtube",
+        "url": "https://youtu.be/lZYIRPtU4xQ?t=234",
+        "date": "Jul 30, 2023",
+        "timestamp": "3:54"
+      },
+      "context": "Tyler describing how Austin first contacted him",
+      "relationships_established": [
+        {
+          "type": "friends_with",
+          "subject": "tyler_denk",
+          "object": "austin_rief",
+          "temporal": "pre-Morning Brew"
+        },
+        {
+          "type": "from_location",
+          "subject": "tyler_denk",
+          "object": "baltimore",
+          "temporal": "origin"
+        },
+        {
+          "type": "from_location",
+          "subject": "austin_rief",
+          "object": "baltimore",
+          "temporal": "origin"
+        }
+      ]
+    },
+    {
+      "id": "excerpt_004",
+      "speaker": "tyler_denk",
+      "quote_text": "I was on an hour-long car ride home from DC and Austin was venting [on the call] about the business and the opportunity. This was when Morning Brew probably had 30,000-40,000 subscribers. He was debating raising money and going full time or taking a big investment banking job in New York. One thing he said was, 'Did you know Barstool is making 40% of their revenue through merch?' or whatever the number was. He was interested in merch, and I said, 'Dude, I got you.' Shopify was my thing. I said, 'Let me help you build,' because they had some brand affinity with the mug and the logo, and people wanted t-shirts, hats, or coffee mugs. So the first idea was, 'I'll help you build a Shopify store'",
+      "source": {
+        "type": "youtube",
+        "url": "https://youtu.be/Dc4CGW6loPQ?t=126",
+        "date": "Sep 12, 2023",
+        "timestamp": "2:06"
+      },
+      "context": "Tyler describing the initial conversation with Austin that led to working for Morning Brew",
+      "relationships_established": [
+        {
+          "type": "had_subscribers",
+          "subject": "morning_brew",
+          "object": "30000_to_40000_subscribers",
+          "temporal": "when Tyler was first contacted"
+        },
+        {
+          "type": "offered_help",
+          "subject": "tyler_denk",
+          "object": "austin_rief",
+          "temporal": "initial call"
+        }
+      ]
+    },
+    {
+      "id": "excerpt_005",
+      "speaker": "tyler_denk",
+      "quote_text": "We started talking, and he said theSkimm is growing so quickly. They were trailblazers in the newsletter space, with millions of subscribers. They had the Skimm'bassadors program, a referral program that worked really well. All these girls in New York who read it loved their ambassador program and were always sharing it. He said, 'We should imitate that'",
+      "source": {
+        "type": "youtube",
+        "url": "https://youtu.be/Dc4CGW6loPQ?t=170",
+        "date": "Sep 12, 2023",
+        "timestamp": "2:50"
+      },
+      "context": "Austin (via Tyler) discussing theSkimm's success and referral program model",
+      "relationships_established": [
+        {
+          "type": "inspired_by",
+          "subject": "morning_brew",
+          "object": "theskimm",
+          "temporal": "early days"
+        },
+        {
+          "type": "had_feature",
+          "subject": "theskimm",
+          "object": "referral_program",
+          "temporal": "when Morning Brew started"
+        }
+      ]
+    },
+    {
+      "id": "excerpt_006",
+      "speaker": "tyler_denk",
+      "quote_text": "I straight-faced told him, 'Yeah, absolutely, no problem.' Even though I had no idea how to do it. I had $2.50 in my bank account and he offered me $3,000 to do it",
+      "source": {
+        "type": "youtube",
+        "url": "https://youtu.be/k2ezi6HM5XQ?t=351",
+        "date": "Sep 5, 2024",
+        "timestamp": "5:51"
+      },
+      "context": "Tyler accepting his first contract work from Austin despite not knowing how to build what was requested",
+      "relationships_established": [
+        {
+          "type": "hired_contractor",
+          "subject": "austin_rief",
+          "object": "tyler_denk",
+          "temporal": "June 2017"
+        },
+        {
+          "type": "paid_amount",
+          "subject": "austin_rief",
+          "object": "3000_dollars",
+          "purpose": "first_contract",
+          "temporal": "June 2017"
+        }
+      ]
+    },
+    {
+      "id": "excerpt_007",
+      "speaker": "tyler_denk",
+      "quote_text": "For 3 weeks, I was building this referral program, making it up as I went. I had no idea what I was doing and almost quit 5 separate times. At 2 a.m., I'd be up thinking, 'I lied about being able to do this, and I have no idea how to get past this point.' I almost texted him to give up but didn't. I finished it and he paid me $3,000",
+      "source": {
+        "type": "youtube",
+        "url": "https://youtu.be/Dc4CGW6loPQ?t=210",
+        "date": "Sep 12, 2023",
+        "timestamp": "3:30"
+      },
+      "context": "Tyler describing the struggle of building his first referral program for Morning Brew",
+      "relationships_established": [
+        {
+          "type": "built_feature",
+          "subject": "tyler_denk",
+          "object": "referral_program",
+          "for": "morning_brew",
+          "temporal": "June 2017",
+          "duration": "3 weeks"
+        }
+      ]
+    },
+    {
+      "id": "excerpt_008",
+      "speaker": "tyler_denk",
+      "quote_text": "Then [Austin] said, 'We have so many other projects to build. If you want to keep working with us throughout the summer while you apply for full-time jobs, let's do it.' So I started contracting for them, working 40-60 hours a week, building the website, improving the referral program, and creating different components for the newsletter",
+      "source": {
+        "type": "youtube",
+        "url": "https://youtu.be/Dc4CGW6loPQ?t=232",
+        "date": "Sep 12, 2023",
+        "timestamp": "3:52"
+      },
+      "context": "Austin extending Tyler's contract work throughout the summer",
+      "relationships_established": [
+        {
+          "type": "extended_contract",
+          "subject": "austin_rief",
+          "object": "tyler_denk",
+          "temporal": "summer 2017"
+        }
+      ]
+    }
+  ],
+
+  "relationships": [
+    {
+      "id": "relationship_001",
+      "type": "co_founded",
+      "subject": "tyler_denk",
+      "object": "beehiiv",
+      "co_founders": ["ben_hargett", "jake_hurd"],
+      "temporal": "end of 2020"
+    },
+    {
+      "id": "relationship_002",
+      "type": "worked_at",
+      "subject": "tyler_denk",
+      "object": "morning_brew",
+      "role": "second_full_time_employee",
+      "duration": "3.5 years",
+      "temporal": "June 2017 - October 2020"
+    },
+    {
+      "id": "relationship_003",
+      "type": "co_founded",
+      "subject": "austin_rief",
+      "object": "morning_brew",
+      "co_founder": "alex_lieberman"
+    },
+    {
+      "id": "relationship_004",
+      "type": "advisor_to",
+      "subject": "austin_rief",
+      "object": "beehiiv",
+      "also": "investor",
+      "temporal": "present"
+    },
+    {
+      "id": "relationship_005",
+      "type": "worked_at",
+      "subject": "tyler_denk",
+      "object": "google",
+      "role": "YouTube Music employee",
+      "duration": "10 months",
+      "temporal": "October 2020 - August 2021"
+    }
+  ],
+
+  "summary": {
+    "total_excerpts": 8,
+    "total_relationships": 5,
+    "key_entities_covered": [
+      "tyler_denk",
+      "austin_rief",
+      "alex_lieberman",
+      "ben_hargett",
+      "jake_hurd",
+      "morning_brew",
+      "beehiiv",
+      "google"
+    ],
+    "key_themes": [
+      "Tyler's journey from failed startup to Morning Brew employee",
+      "Development of newsletter technology and referral programs",
+      "Co-founding of Beehiiv with Morning Brew colleagues",
+      "Austin's role as both former boss and current advisor/investor"
+    ],
+    "temporal_coverage": "College graduation (pre-2017) to present (2024)",
+    "extraction_note": "This represents a foundational extraction covering major relationships and key quotes from the 922-line document. The complete document contains hundreds more quotes covering Tyler's complete journey, Beehiiv's features (ad network, boosts, subscriptions), detailed fundraising rounds ($50.7M total raised), company culture (remote-first, no meetings Tue/Thu), performance metrics (ARR growth from $1M to $20M), team growth (12 to 75+ employees), and comprehensive business philosophy."
+  }
+}
